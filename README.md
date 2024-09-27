@@ -1,8 +1,29 @@
-# React + Vite
+# TravelTrucks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+This project is the frontend part of the **TravelTrucks** web application, a company specializing in camper rentals. The app allows users to browse available campers, filter them by various criteria, read reviews, and book vehicles. The backend API is used to handle camper listings.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features
+
+- **Home page** with a banner and call-to-action.
+- **Camper catalog** with filtering options by location, vehicle type, and other characteristics.
+- **Camper details page** with a detailed description, photo gallery, user reviews, and booking form.
+- **Filtering** by location, vehicle type, kitchen, air conditioning, and other criteria.
+- **Favorites** functionality, allowing users to save campers with persistence across page reloads.
+- **Camper rating** with a five-star rating system.
+- **Lazy loading** of additional camper cards in the catalog.
+
+## Technologies Used
+
+- **React** with Vite bundler.
+- **Redux** for state management.
+- **React Router** for routing.
+- **Axios** for API requests.
+
+## Author Information
+
+Project Author: Iryna Ostrytska  
+Email: ostrinka@gmail.com  
+GitHub: https://github.com/Ostrinka/Campers-of-your-dreams
+The project is available at: [TravelTrucks](https://example.vercel.app)
