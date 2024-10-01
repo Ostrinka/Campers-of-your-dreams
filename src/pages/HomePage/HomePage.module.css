@@ -1,0 +1,32 @@
+.container {
+  background-image: url('../../../public/images/Picture_1x.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .container {
+    background-image: url('../../../public/images/Picture_2x.jpg');
+  }
+}
+
+.wrap {
+  font-weight: 600;
+  color: #F7F7F7;
+  padding-top: 260px;
+  padding-left: 64px;
+}
+
+.title {
+  font-size: 48px;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+.text {
+  font-size: 24px;
+  line-height: 0.75;
+  margin-bottom: 40px;
+}
