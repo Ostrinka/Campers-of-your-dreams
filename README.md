@@ -26,4 +26,4 @@ This project is the frontend part of the **TravelTrucks** web application, a com
 Project Author: Iryna Ostrytska  
 Email: ostrinka@gmail.com  
 GitHub: https://github.com/Ostrinka/Campers-of-your-dreams
-The project is available at: [TravelTrucks](https://example.vercel.app)
+The project is available at: https://campers-of-your-dreams.vercel.app/

@@ -2,9 +2,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  /* gap: 10px;
   width: 173px;
-  height: 55px;
+  height: 55px; */
   font-size: 16px;
   font-weight: 500;
   border: none;
