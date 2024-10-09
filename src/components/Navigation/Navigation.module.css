@@ -5,11 +5,17 @@
   margin: 0 auto;
 }
 
+.logo {
+  max-width: 136px;
+  height: 16px;
+}
+
 .navMenu {
   display: flex;
-  flex-direction: row;
   gap: 32px;
+  align-items:center;
   margin: 0 auto;
+  padding-left: 450px;
 }
 
 .link {

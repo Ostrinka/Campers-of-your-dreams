@@ -11,7 +11,7 @@ export default function Navigation() {
   return (
     <nav className={css.nav}>
       <NavLink to="/">
-        <img src="../../../images/Logo.svg" />
+        <img className={css.logo} src="../../../images/Logo.svg" alt="Logo"/>
       </NavLink>
       <ul className={css.navMenu}>
         <li className={css.link}>

@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 64px;
+  max-width: 1440px;
+  height: 100vh;
+  padding: 48px 64px 52px 64px;
+  margin: 0 auto;
+}
+
+.list {
+  text-align: center;
+}
